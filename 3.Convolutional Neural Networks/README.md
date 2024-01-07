@@ -1,12 +1,12 @@
-References
-Week 1:
+#References
+##Week 1:
 The Sequential model
  (TensorFlow Documentation)
 
 The Functional API
  (TensorFlow Documentation)
 
-Week 2:
+##Week 2:
 Deep Residual Learning for Image Recognition
  (He, Zhang, Ren & Sun, 2015)
 
@@ -22,7 +22,7 @@ MobileNetV2: Inverted Residuals and Linear Bottlenecks
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
  (Tan & Le, 2019)
 
-Week 3:
+##Week 3:
 You Only Look Once: Unified, Real-Time Object Detection
  (Redmon, Divvala, Girshick & Farhadi, 2015)
 
@@ -43,7 +43,7 @@ Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolu
 U-Net: Convolutional Networks for Biomedical Image Segmentation
  (Ronneberger, Fischer & Brox, 2015)
 
-Week 4:
+##Week 4:
 FaceNet: A Unified Embedding for Face Recognition and Clustering
  (Schroff, Kalenichenko & Philbin, 2015)
 
