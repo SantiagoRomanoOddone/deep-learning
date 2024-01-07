@@ -31,32 +31,24 @@
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) (Ronneberger, Fischer & Brox, 2015)
 
 ## Week 4:
-FaceNet: A Unified Embedding for Face Recognition and Clustering
- (Schroff, Kalenichenko & Philbin, 2015)
+[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (Schroff, Kalenichenko & Philbin, 2015)
 
-DeepFace: Closing the Gap to Human-Level Performance in Face Verification
- (Taigman, Yang, Ranzato & Wolf)
+[DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://scontent.fjuj1-1.fna.fbcdn.net/v/t39.8562-6/240890413_887772915161178_4705912772854439762_n.pdf?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=PBdKD5_z0EwAX_jghAi&_nc_ht=scontent.fjuj1-1.fna&oh=00_AfDxinMZ4eTEf1bSnIFSspdLahDh1rcWcTwok8D2p5YiFg&oe=659F967F) (Taigman, Yang, Ranzato & Wolf)
 
-facenet
- (GitHub: davidsandberg)
+[facenet](https://github.com/davidsandberg/facenet) (GitHub: davidsandberg)
 
-How to Develop a Face Recognition System Using FaceNet in Keras
- (Jason Brownlee, 2019)
+[How to Develop a Face Recognition System Using FaceNet in Keras](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/) (Jason Brownlee, 2019)
 
-keras-facenet/notebook/tf_to_keras.ipynb
- (GitHub: nyoki-mtl)
+[keras-facenet/notebook/tf_to_keras.ipynb](https://github.com/nyoki-mtl/keras-facenet/blob/master/notebook/tf_to_keras.ipynb) (GitHub: nyoki-mtl)
 
-A Neural Algorithm of Artistic Style
- (Gatys, Ecker & Bethge, 2015)
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (Gatys, Ecker & Bethge, 2015)
 
-Convolutional neural networks for artistic style transfer
+[Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 
-TensorFlow Implementation of "A Neural Algorithm of Artistic Style"
+[TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](https://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
 
-Very Deep Convolutional Networks For Large-Scale Image Recognition
- (Simonyan & Zisserman, 2015)
+[Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) (Simonyan & Zisserman, 2015)
 
-Pretrained models
- (MatConvNet)
+[Pretrained models](https://www.vlfeat.org/matconvnet/pretrained/) (MatConvNet)
 
 
