@@ -9,11 +9,9 @@ https://www.deeplearning.ai/courses/deep-learning-specialization/
 
 2. **Improving Deep Neural Networks**
 
-3. **Structuring Machine Learning Projects**
+3. **Convolutional Neural Networks**
 
-4. **Convolutional Neural Networks**
-
-5. **Sequence Models**
+4. **Sequence Models**
 
 ## Getting Started
 
